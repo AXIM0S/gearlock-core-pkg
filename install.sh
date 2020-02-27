@@ -7,11 +7,11 @@ get_base_dir # Returns the directory path in $BD variable from where this *insta
 #####--- Import Functions ---#####
 
 # Example Copy function
-geco "+ Merging files in your operating-system\n"
+geco "+ Merging files in your operating-system"
 gclone "$BD/system" "$BD/data" / # You must use quotes " " if any of your file-name contains *spaces or special characters
 
 # Example color text output # ${RC} goes for "Reset-color" to normal 
-geco "+ ${GREEN} Hello World! ${RC}"
+geco "\n${GREEN}Hello World!${RC}"
 
 # Silent any command (in this case, it's deleting a file)
 nout rm /data/baloo # Let's say, rm failed to delete the file but wont give any output for that.
