@@ -4,7 +4,7 @@
 # GearLock also provides some easy to use functions which can be helpful while scripting.
 # Check out the online documentation for more information.
 
-# For configuring your package, check `zygote.sh` or gearlock can also guide you during the build process.
+# For configuring your package, check `!zygote.sh` or gearlock can also guide you during the build process.
 # To configure your installation script, check `install.sh`
 # If you want to provide some custom uninstallation functions alongside `gearlock-autogen-unins-script` then do it inside `uninstall.sh`
 
