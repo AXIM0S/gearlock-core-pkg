@@ -1,9 +1,8 @@
 ## For proper develoer documentation, visit https://supreme-gamers.com/gearlock
-
 # Check `!zygote.sh` to configure your package functions or gearlock can also guide you during the build process
 
 #####--- Import Functions ---#####
-get_base_dir # Returns the directory path in $BD variable from where this *install.sh is being executed
+get_base_dir # Returns execution directory path in $BD variable
 #####--- Import Functions ---#####
 
 # Example Copy function
@@ -15,7 +14,6 @@ geco "\n${GREEN}Hello World!${RC}"
 
 # Silent any command (in this case, it's deleting a file)
 nout rm /data/baloo # Let's say, rm failed to delete the file but wont give any output for that.
-
 
 
 ## You should remove these examples if you dont need them.
