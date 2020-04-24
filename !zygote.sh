@@ -2,7 +2,7 @@
 #######################################################################################################
 #####=============================== Package/Extension Information ===============================#####
 
-NAME="Something Cool" #Package/Extension Name
+NAME="Something-Cool" #Package/Extension Name
 
 TYPE="Package" #Specify (Package / Extension)
 
