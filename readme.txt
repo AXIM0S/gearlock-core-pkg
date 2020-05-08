@@ -1,4 +1,4 @@
-## For proper develoer documentation, visit https://supreme-gamers.com/gearlock
+## For proper developer documentation, visit https://supreme-gamers.com/gearlock
 
 # You need to have basic knowledge about scripting in bash.
 # GearLock also provides some easy to use functions which can be helpful while scripting.

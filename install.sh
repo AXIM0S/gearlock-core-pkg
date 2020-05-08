@@ -1,4 +1,4 @@
-## For proper develoer documentation, visit https://supreme-gamers.com/gearlock
+## For proper developer documentation, visit https://supreme-gamers.com/gearlock
 # Check `!zygote.sh` to configure your package functions or gearlock can also guide you during the build process
 
 #####--- Import Functions ---#####
