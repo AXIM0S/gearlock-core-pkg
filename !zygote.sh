@@ -28,7 +28,7 @@ C_EXTNAME="" #For Specifing a custom name for your extension script ($NAME is us
 #######################################################################################################
 ######=============================== Package/Extension Functions ===============================######
 
-REQSYNC="yes" #Require Sync (Deafult - yes)
+REQSYNC="yes" #(Deafult - yes) To make sure all your files are properly written in disk
 
 REQREBOOT="no" #(Deafult - no) Use if your package/extension modifies any major system file
 
