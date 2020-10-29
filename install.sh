@@ -9,7 +9,8 @@ get_base_dir # Returns execution directory path in $BD variable
 
 # Example Copy function
 geco "+ Merging files in your operating-system"
-gclone "$BD/system" "$BD/data" / # You must use quotes " " if any of your file-name contains *spaces or special characters
+gclone "$BD/system/" "$SYSTEM_DIR" # You must use quotes " " if any of your file-name contains *spaces or special characters
+# gclone "$BD/data/" "$DATA_DIR"
 
 # Example color text output # ${RC} goes for "Reset-color" to normal 
 geco "\n${GREEN}Hello World!${RC}"
