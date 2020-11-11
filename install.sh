@@ -4,7 +4,7 @@
 #####--- Import Functions ---#####
 get_base_dir # Returns execution directory path in $BD variable
 # get_net_stat
-# check_compat 6.4
+# check_compat 7.0
 #####--- Import Functions ---#####
 
 # Example Copy function
