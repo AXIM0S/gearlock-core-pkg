@@ -1,3 +1,4 @@
+#!/gearlock/bin/bash
 ## For proper developer documentation, visit https://supreme-gamers.com/gearlock
 
 # If you want to supply an executable which can operate whithin gearlock for users then you should do it here.

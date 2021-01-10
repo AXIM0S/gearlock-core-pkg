@@ -1,3 +1,4 @@
+#!/gearlock/bin/bash
 ## For proper developer documentation, visit https://supreme-gamers.com/gearlock
 ##
 # GEN_UNINS is disabled by default (auto uninstallation script generation)
