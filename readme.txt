@@ -15,3 +15,6 @@
 
 # There is a common dir for GearLock which is `dependencies`, you can also put any additional files if you'd like GearLock to auto-copy them.
 # `dependencies` dir path can be called through `$DEPDIR` var.
+
+# You can put things at `gearlock/.local` dir, for example: `gearlock/.local/bin/something` (I hope that explains the rest of `.local` dir)
+# FYI, `$GHOME/.local/bin` is added in PATH by GearLock
