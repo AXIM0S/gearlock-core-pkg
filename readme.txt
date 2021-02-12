@@ -15,6 +15,8 @@
 
 # There is a common dir for GearLock which is `dependencies`, you can also put any additional files if you'd like GearLock to auto-copy them.
 # `dependencies` dir path can be called through `$DEPDIR` var.
+# Note: Since gearlock 7.2.7, you can create/use `gearlock/ghome/dependencies` as well but I'd still prefer `gearlock/dependencies`
+# 		Both of the placements results in same installation location ($DEPDIR)
 
-# You can put things at `gearlock/.local` dir, for example: `gearlock/.local/bin/something` (I hope that explains the rest of `.local` dir)
+# You can put things at `gearlock/ghome/.local` dir, for example: `gearlock/ghome/.local/bin/something` (I hope that explains the rest of `.local` dir)
 # FYI, `$GHOME/.local/bin` is added in PATH by GearLock
