@@ -5,7 +5,7 @@
 #####--- Import Functions ---#####
 get_base_dir # Returns execution directory path in $BD variable
 # get_net_stat
-check_compat 7.2.20
+check_compat 7.2.22
 #####--- Import Functions ---#####
 
 # Ensure compatible GearLock version
