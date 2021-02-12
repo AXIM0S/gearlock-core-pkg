@@ -1,5 +1,5 @@
 #!/gearlock/bin/bash
-## For proper developer documentation, visit https://supreme-gamers.com/gearlock
+## For proper developer documentation, visit https://wiki.supreme-gamers.com/gearlock/developer-guide
 ##
 # GEN_UNINS is disabled by default (auto uninstallation script generation)
 # It logs all the files present inside your package `system` & `data` dir

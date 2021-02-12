@@ -1,4 +1,4 @@
-## For proper developer documentation, visit https://supreme-gamers.com/gearlock
+## For proper developer documentation, visit https://wiki.supreme-gamers.com/gearlock/developer-guide
 
 # You need to have basic knowledge about scripting in bash.
 # You can also code in python if you know python since GearLock brings python with it.

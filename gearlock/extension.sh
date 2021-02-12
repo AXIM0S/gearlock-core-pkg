@@ -1,5 +1,5 @@
 #!/gearlock/bin/bash
-## For proper developer documentation, visit https://supreme-gamers.com/gearlock
+## For proper developer documentation, visit https://wiki.supreme-gamers.com/gearlock/developer-guide
 
 # If you want to supply an executable which can operate whithin gearlock for users then you should do it here.
 # This file is initially a bash script but it could be anything that's executable. And this file's extension `.sh` doesn't matter.
