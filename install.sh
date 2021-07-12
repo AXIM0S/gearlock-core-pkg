@@ -9,7 +9,7 @@ check_compat 7.2.22
 #####--- Import Functions ---#####
 
 # Ensure compatible GearLock version
-if "$COMPAT" != "yes"; then
+if test "$COMPAT" != "yes"; then
 	geco "\n[!!!] Please update GearLock to install this" && exit 101
 fi
 
